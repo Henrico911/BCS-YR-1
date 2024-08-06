@@ -1,0 +1,479 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.2.10)  18 FEB 2024 22:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ushindi.tex
+(ushindi.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+)
+
+LaTeX Warning: Unused global option(s):
+    [center].
+
+(ushindi.aux)
+\openout1 = `ushindi.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen144
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\skurge\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+[1
+
+{C:/Users/skurge/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+Overfull \hbox (214.86877pt too wide) in paragraph at lines 91--91
+[]  \OT1/cmtt/m/n/10.95 plt.fill_between(x,0,np.minimum.reduce([y1,y2,y3]),colo
+r="blue",alpha=0.5,label="feasible region")[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+<C:/Users/skurge/OneDrive/Desktop/USHINDI EDWARD BCS 00530/num1.png, id=12, 197
+.98969pt x 58.71938pt>
+File: C:/Users/skurge/OneDrive/Desktop/USHINDI EDWARD BCS 00530/num1.png Graphi
+c file (type png)
+<use C:/Users/skurge/OneDrive/Desktop/USHINDI EDWARD BCS 00530/num1.png>
+Package pdftex.def Info: C:/Users/skurge/OneDrive/Desktop/USHINDI EDWARD BCS 00
+530/num1.png  used on input line 95.
+(pdftex.def)             Requested size: 197.9892pt x 58.71921pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[3 <C:/Users/skurge/OneDrive/Desktop/USHINDI EDWARD BCS 00530/num1.png>]
+<graph1.png, id=18, 361.35pt x 293.4162pt>
+File: graph1.png Graphic file (type png)
+<use graph1.png>
+Package pdftex.def Info: graph1.png  used on input line 99.
+(pdftex.def)             Requested size: 361.34912pt x 293.41548pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 98--100
+[] 
+ []
+
+[4 <./graph1.png>]
+Overfull \hbox (94.14633pt too wide) in paragraph at lines 162--162
+[]  \OT1/cmtt/m/n/10.95 lp = LpProblem(name="minimizing_the_overall_response_ti
+me", sense=LpMinimize)[] 
+ []
+
+[5]
+Overfull \hbox (145.88452pt too wide) in paragraph at lines 162--162
+[]  \OT1/cmtt/m/n/10.95 plt.fill_between(x,0,np.minimum(y1,y2),color="grey",alp
+ha=0.5,label="feasible region")[] 
+ []
+
+<num2.png, id=26, 295.1025pt x 66.2475pt>
+File: num2.png Graphic file (type png)
+<use num2.png>
+Package pdftex.def Info: num2.png  used on input line 165.
+(pdftex.def)             Requested size: 295.10176pt x 66.24733pt.
+<graph2.png, id=27, 361.35pt x 286.9119pt>
+File: graph2.png Graphic file (type png)
+<use graph2.png>
+Package pdftex.def Info: graph2.png  used on input line 166.
+(pdftex.def)             Requested size: 361.34912pt x 286.91118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 164--167
+[] 
+ []
+
+[6 <./num2.png> <./graph2.png>] [7]
+Overfull \hbox (220.61746pt too wide) in paragraph at lines 228--228
+[]  \OT1/cmtt/m/n/10.95 plt.fill_between(x,100,np.maximum.reduce([y1,y2]),color
+="orange",alpha=0.5,label="feasible region")[] 
+ []
+
+
+Overfull \hbox (48.15683pt too wide) in paragraph at lines 228--228
+[]  \OT1/cmtt/m/n/10.95 plt.title("feasible region for energy Efficient resourc
+e allocation")[] 
+ []
+
+<num3.png, id=37, 207.02344pt x 59.47218pt>
+File: num3.png Graphic file (type png)
+<use num3.png>
+Package pdftex.def Info: num3.png  used on input line 231.
+(pdftex.def)             Requested size: 207.02292pt x 59.47203pt.
+<graph3.png, id=38, 361.35pt x 286.9119pt>
+File: graph3.png Graphic file (type png)
+<use graph3.png>
+Package pdftex.def Info: graph3.png  used on input line 232.
+(pdftex.def)             Requested size: 361.34912pt x 286.91118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--233
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 230--233
+[] 
+ []
+
+[8 <./num3.png> <./graph3.png>]
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 292--292
+[]  \OT1/cmtt/m/n/10.95 lp = LpProblem(name="allocating_resources", sense=LpMin
+imize)[] 
+ []
+
+
+Overfull \hbox (203.3714pt too wide) in paragraph at lines 292--292
+[]  \OT1/cmtt/m/n/10.95 plt.fill_between(x,200,np.maximum.reduce([y1,y2]),color
+="red",alpha=0.5,label="feasible region")[] 
+ []
+
+[9]
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 292--292
+[]  \OT1/cmtt/m/n/10.95 plt.title("feasible region for Multi_Tenant Resource Sh
+aring")[] 
+ []
+
+<num4.png, id=47, 207.77625pt x 64.74188pt>
+File: num4.png Graphic file (type png)
+<use num4.png>
+Package pdftex.def Info: num4.png  used on input line 295.
+(pdftex.def)             Requested size: 207.77573pt x 64.74171pt.
+<graph4.png, id=48, 361.35pt x 276.7941pt>
+File: graph4.png Graphic file (type png)
+<use graph4.png>
+Package pdftex.def Info: graph4.png  used on input line 296.
+(pdftex.def)             Requested size: 361.34912pt x 276.79341pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--297
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 294--297
+[] 
+ []
+
+[10 <./num4.png> <./graph4.png>] [11]
+Overfull \hbox (324.09384pt too wide) in paragraph at lines 360--360
+[]  \OT1/cmtt/m/n/10.95 ax.plot_surface(x, y, np.maximum(z1, z2), alpha=0.5, rs
+tride=100, cstride=100, color='gray', label='Feasible Region')[] 
+ []
+
+
+Overfull \hbox (65.4029pt too wide) in paragraph at lines 360--360
+[]  \OT1/cmtt/m/n/10.95 ax.set_title('Feasible Region for Production Planning i
+n manufacturing')[] 
+ []
+
+
+Overfull \hbox (53.90552pt too wide) in paragraph at lines 360--360
+[]  \OT1/cmtt/m/n/10.95 ax.scatter(x[0], x[1], x[2], color='orange', label='Opt
+imal Solution')[] 
+ []
+
+<num5.png, id=57, 270.25969pt x 71.51718pt>
+File: num5.png Graphic file (type png)
+<use num5.png>
+Package pdftex.def Info: num5.png  used on input line 363.
+(pdftex.def)             Requested size: 270.25902pt x 71.517pt.
+<graph5.png, id=58, 303.534pt x 255.8358pt>
+File: graph5.png Graphic file (type png)
+<use graph5.png>
+Package pdftex.def Info: graph5.png  used on input line 364.
+(pdftex.def)             Requested size: 303.53325pt x 255.83517pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--365
+
+ []
+
+[12 <./num5.png> <./graph5.png>]
+Overfull \hbox (99.89502pt too wide) in paragraph at lines 446--446
+[]  \OT1/cmtt/m/n/10.95 problem = LpProblem(name="Financial_portfolio_optimizat
+ion", sense=LpMaximize)[] 
+ []
+
+
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 446--446
+[]  \OT1/cmtt/m/n/10.95 C_vals = (10000 - 2 * A_grid - 3 * B_grid)  # Budget co
+nstraint[] 
+ []
+
+[13]
+Overfull \hbox (226.36615pt too wide) in paragraph at lines 446--446
+[]  \OT1/cmtt/m/n/10.95 ax.plot([2000, 2000], [0, 2000], [0, 470], color='red',
+ linestyle='--', linewidth=2, label='Budget')[] 
+ []
+
+
+Overfull \hbox (306.84778pt too wide) in paragraph at lines 446--446
+[]  \OT1/cmtt/m/n/10.95 ax.plot([0, 2500], [1500, 1500], [0, 470], color='green
+', linestyle='--', linewidth=2, label='Maximum Investment')[] 
+ []
+
+
+Overfull \hbox (295.3504pt too wide) in paragraph at lines 446--446
+[]  \OT1/cmtt/m/n/10.95 ax.plot([0, 2500], [0, 2000], [470, 470], color='blue',
+ linestyle='--', linewidth=2, label='Maximum Investment')[] 
+ []
+
+
+Overfull \hbox (174.62796pt too wide) in paragraph at lines 446--446
+[]  \OT1/cmtt/m/n/10.95 ax.scatter(optimum_A, optimum_B, optimum_ROI, color='pu
+rple', s=100, label='Optimum Point')[] 
+ []
+
+[14]
+<num6.png, id=71, 240.14719pt x 71.51718pt>
+File: num6.png Graphic file (type png)
+<use num6.png>
+Package pdftex.def Info: num6.png  used on input line 450.
+(pdftex.def)             Requested size: 240.14658pt x 71.517pt.
+<graph6.png, id=72, 361.35pt x 365.6862pt>
+File: graph6.png Graphic file (type png)
+<use graph6.png>
+Package pdftex.def Info: graph6.png  used on input line 451.
+(pdftex.def)             Requested size: 361.34912pt x 365.6853pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--452
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 449--452
+[] 
+ []
+
+[15 <./num6.png> <./graph6.png>] [16]
+Overfull \hbox (278.10434pt too wide) in paragraph at lines 521--521
+[]  \OT1/cmtt/m/n/10.95 plt.fill_between(x1,200, np.maximum.reduce([x2_1,x2_2 ]
+), color='yellow', alpha=0.4, label='Feasible Region')[] 
+ []
+
+<num7.png, id=81, 201.75375pt x 59.47218pt>
+File: num7.png Graphic file (type png)
+<use num7.png>
+Package pdftex.def Info: num7.png  used on input line 524.
+(pdftex.def)             Requested size: 201.75325pt x 59.47203pt.
+<graph7.png, id=82, 361.35pt x 283.2984pt>
+File: graph7.png Graphic file (type png)
+<use graph7.png>
+Package pdftex.def Info: graph7.png  used on input line 525.
+(pdftex.def)             Requested size: 361.34912pt x 283.2977pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--526
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 523--526
+[] 
+ []
+
+[17 <./num7.png> <./graph7.png>] [18]
+Overfull \hbox (255.10959pt too wide) in paragraph at lines 589--589
+[]  \OT1/cmtt/m/n/10.95 plt.fill_between(x1,0, np.minimum.reduce([x2_1,x2_2] ),
+ color='pink', alpha=0.6, label='Feasible Region')[] 
+ []
+
+<num8.png, id=91, 180.675pt x 64.74188pt>
+File: num8.png Graphic file (type png)
+<use num8.png>
+Package pdftex.def Info: num8.png  used on input line 592.
+(pdftex.def)             Requested size: 180.67455pt x 64.74171pt.
+<graph8.png, id=92, 361.35pt x 286.9119pt>
+File: graph8.png Graphic file (type png)
+<use graph8.png>
+Package pdftex.def Info: graph8.png  used on input line 593.
+(pdftex.def)             Requested size: 361.34912pt x 286.91118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--594
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--594
+
+ []
+
+
+Overfull \hbox (1.34912pt too wide) in paragraph at lines 591--594
+[] 
+ []
+
+[19 <./num8.png> <./graph8.png>] (ushindi.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1484 strings out of 474486
+ 25285 string characters out of 5743387
+ 1933542 words of memory out of 5000000
+ 23811 multiletter control sequences out of 15000+600000
+ 560055 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,197b,273s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/skurge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Users/skurge/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Users/skurge/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/skurge/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on ushindi.pdf (19 pages, 408612 bytes).
+PDF statistics:
+ 117 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

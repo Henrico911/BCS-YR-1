@@ -1,0 +1,604 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.2.19)  21 FEB 2024 13:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./document.tex
+(document.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+)
+
+LaTeX Warning: Unused global option(s):
+    [center].
+
+(document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen144
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks21
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+[1
+
+{C:/Users/skurge/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (410.32416pt too wide) in paragraph at lines 82--82
+[]\OT1/cmtt/m/n/10.95 plt.fill_between(x_values, np.maximum(np.maximum(y1_value
+s, y2_values), y3_values), color='green', alpha=0.5, label='Unwanted Region')[]
+ 
+ []
+
+
+Overfull \hbox (145.88452pt too wide) in paragraph at lines 82--82
+[]\OT1/cmtt/m/n/10.95 plt.scatter(result.x[0], result.x[1], color='red', marker
+='*', label='Optimal Solution')[] 
+ []
+
+[2]
+<solutions/num1.png, id=12, 298.11375pt x 59.47218pt>
+File: solutions/num1.png Graphic file (type png)
+<use solutions/num1.png>
+Package pdftex.def Info: solutions/num1.png  used on input line 85.
+(pdftex.def)             Requested size: 298.11302pt x 59.47203pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...s{C:/Users/skurge/OneDrive/Desktop/graph1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+[3 <./solutions/num1.png>]
+Overfull \hbox (283.85303pt too wide) in paragraph at lines 146--146
+[]\OT1/cmtt/m/n/10.95 # plt.fill_between(x_values, np.maximum(y1_values, y2_val
+ues), color='gray', alpha=0.5, label='Feasible Region')[] 
+ []
+
+
+Overfull \hbox (163.13058pt too wide) in paragraph at lines 146--146
+[]\OT1/cmtt/m/n/10.95 plt.scatter(result.x[0], result.x[1], color='yellow', mar
+ker='*', label='Optimal Solution')[] 
+ []
+
+[4]
+<solutions/num2.png, id=21, 301.8778pt x 59.47218pt>
+File: solutions/num2.png Graphic file (type png)
+<use solutions/num2.png>
+Package pdftex.def Info: solutions/num2.png  used on input line 149.
+(pdftex.def)             Requested size: 301.87706pt x 59.47203pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 ...{C:/Users/skurge/OneDrive/Desktop/graph2}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+[5 <./solutions/num2.png>]
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 204--204
+[]\OT1/cmtt/m/n/10.95 model = LpProblem(name = "Energy_consumption", sense=LpMi
+nimize)[] 
+ []
+
+
+Overfull \hbox (272.35565pt too wide) in paragraph at lines 204--204
+[]\OT1/cmtt/m/n/10.95 # plt.fill_between(x_values, np.maximum(y1_values,y2_valu
+es), 0, where=(y1_values<=y2_values), color="orange")[] 
+ []
+
+
+Overfull \hbox (467.81104pt too wide) in paragraph at lines 204--204
+[]\OT1/cmtt/m/n/10.95 plt.fill_between(x_values, np.maximum(y1_values,y2_values
+), 0, where=(y1_values>=y2_values), color="yellow", alpha=0.5, label='Unwanted 
+Region')[] 
+ []
+
+
+Overfull \hbox (117.14108pt too wide) in paragraph at lines 204--204
+[]\OT1/cmtt/m/n/10.95 plt.scatter(optimal_x, optimal_y, color="red",marker='*',
+ label="Optimal Solution")[] 
+ []
+
+[6]
+<solutions/num3.png, id=29, 219.82124pt x 63.98906pt>
+File: solutions/num3.png Graphic file (type png)
+<use solutions/num3.png>
+Package pdftex.def Info: solutions/num3.png  used on input line 207.
+(pdftex.def)             Requested size: 219.8207pt x 63.98889pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 ...{C:/Users/skurge/OneDrive/Desktop/graph3}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--209
+
+ []
+
+[7 <./solutions/num3.png>]
+Overfull \hbox (71.15158pt too wide) in paragraph at lines 262--262
+[]\OT1/cmtt/m/n/10.95 model = LpProblem(name = "Multi-Tenant-Resource-Sharing",
+ sense=LpMinimize)[] 
+ []
+
+
+Overfull \hbox (249.3609pt too wide) in paragraph at lines 262--262
+[]\OT1/cmtt/m/n/10.95 plt.fill_between(x_values, np.maximum(y1_values,y2_values
+), 0, where=(y1_values<=y2_values), color="gray")[] 
+ []
+
+
+Overfull \hbox (462.06235pt too wide) in paragraph at lines 262--262
+[]\OT1/cmtt/m/n/10.95 plt.fill_between(x_values, np.maximum(y1_values,y2_values
+), 0, where=(y1_values>=y2_values), color="green", alpha=0.5, label='Unwanted R
+egion')[] 
+ []
+
+
+Overfull \hbox (140.13583pt too wide) in paragraph at lines 262--262
+[]\OT1/cmtt/m/n/10.95 plt.scatter(optimal_x, optimal_y, color="yellow", marker=
+'*', label="Optimal Solution")[] 
+ []
+
+[8]
+<solutions/num4.png, id=38, 184.43906pt x 72.27pt>
+File: solutions/num4.png Graphic file (type png)
+<use solutions/num4.png>
+Package pdftex.def Info: solutions/num4.png  used on input line 265.
+(pdftex.def)             Requested size: 184.4386pt x 72.2698pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 ...{C:/Users/skurge/OneDrive/Desktop/graph4}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--267
+
+ []
+
+[9 <./solutions/num4.png>]
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10.95 problem = LpProblem(name="Production_minimizing", sense=L
+pMinimize)[] 
+ []
+
+[10]
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10.95 z_vals = 5 * x1_grid + 3 * x2_grid + 4 * (1950 - x1_grid 
+- x2_grid)[] 
+ []
+
+
+Overfull \hbox (243.61221pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10.95 ax.plot([200, 200], [0, 400], [0, 0], color='yellow', lin
+estyle='--', linewidth=2, label='Raw Materials')[] 
+ []
+
+
+Overfull \hbox (186.12534pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10.95 ax.plot([0, 400], [300, 300], [0, 0], color='blue', lines
+tyle='--', linewidth=2, label='Labor')[] 
+ []
+
+
+Overfull \hbox (278.10434pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10.95 ax.plot([0, 400], [0, 400], [1950, 1950], color='red', li
+nestyle='--', linewidth=2, label='Minimum Production')[] 
+ []
+
+
+Overfull \hbox (163.13058pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10.95 ax.scatter(optimum_x1, optimum_x2, optimum_z, color='purp
+le', s=100, label='Optimum Point')[] 
+ []
+
+[11]
+<solutions/num5.png, id=49, 227.34938pt x 72.27pt>
+File: solutions/num5.png Graphic file (type png)
+<use solutions/num5.png>
+Package pdftex.def Info: solutions/num5.png  used on input line 349.
+(pdftex.def)             Requested size: 227.34882pt x 72.2698pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph5' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350 ...{C:/Users/skurge/OneDrive/Desktop/graph5}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--351
+
+ []
+
+[12 <./solutions/num5.png>]
+Overfull \hbox (88.39764pt too wide) in paragraph at lines 430--430
+[]\OT1/cmtt/m/n/10.95 problem = LpProblem(name="Financial_portfolio_optimizatio
+n", sense=LpMaximize)[] 
+ []
+
+
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 430--430
+[]\OT1/cmtt/m/n/10.95 C_vals = (10000 - 2 * A_grid - 3 * B_grid)  # Budget cons
+traint[] 
+ []
+
+[13]
+Overfull \hbox (226.36615pt too wide) in paragraph at lines 430--430
+[]\OT1/cmtt/m/n/10.95 ax.plot([2000, 2000], [0, 2000], [0, 470], color='green',
+ linestyle='--', linewidth=2, label='Budget')[] 
+ []
+
+
+Overfull \hbox (289.60172pt too wide) in paragraph at lines 430--430
+[]\OT1/cmtt/m/n/10.95 ax.plot([0, 2500], [1500, 1500], [0, 470], color='blue', 
+linestyle='--', linewidth=2, label='Maximum Investment')[] 
+ []
+
+
+Overfull \hbox (278.10434pt too wide) in paragraph at lines 430--430
+[]\OT1/cmtt/m/n/10.95 ax.plot([0, 2500], [0, 2000], [470, 470], color='red', li
+nestyle='--', linewidth=2, label='Maximum Investment')[] 
+ []
+
+
+Overfull \hbox (163.13058pt too wide) in paragraph at lines 430--430
+[]\OT1/cmtt/m/n/10.95 ax.scatter(optimum_A, optimum_B, optimum_ROI, color='yell
+ow', s=100, label='Optimum Point')[] 
+ []
+
+[14]
+<solutions/num6.png, id=61, 219.06844pt x 85.06781pt>
+File: solutions/num6.png Graphic file (type png)
+<use solutions/num6.png>
+Package pdftex.def Info: solutions/num6.png  used on input line 434.
+(pdftex.def)             Requested size: 219.06789pt x 85.0676pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph6' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.435 ...{C:/Users/skurge/OneDrive/Desktop/graph6}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--436
+
+ []
+
+[15 <./solutions/num6.png>] [16]
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 515--515
+[]\OT1/cmtt/m/n/10.95 plt.plot(x_values, constraint1(x_values), label='2x + y >
+= 20')[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 515--515
+[]\OT1/cmtt/m/n/10.95 plt.plot(x_values, constraint2(x_values), label='3x + 2y 
+>= 25')[] 
+ []
+
+
+Overfull \hbox (30.91077pt too wide) in paragraph at lines 515--515
+[]\OT1/cmtt/m/n/10.95 plt.scatter(x, y, color='red', marker='*', label='Optimal
+ Solution')[] 
+ []
+
+[17]
+<solutions/num7.png, id=72, 172.39406pt x 75.28125pt>
+File: solutions/num7.png Graphic file (type png)
+<use solutions/num7.png>
+Package pdftex.def Info: solutions/num7.png  used on input line 518.
+(pdftex.def)             Requested size: 172.39363pt x 75.28105pt.
+
+
+! LaTeX Error: File `C:/Users/skurge/OneDrive/Desktop/graph7' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.519 ...{C:/Users/skurge/OneDrive/Desktop/graph7}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--520
+
+ []
+
+[18 <./solutions/num7.png>]
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 574--574
+[]\OT1/cmtt/m/n/10.95 model = LpProblem(name = "Production-Planning", sense=LpM
+aximize)[] 
+ []
+
+
+Overfull \hbox (255.10959pt too wide) in paragraph at lines 574--574
+[]\OT1/cmtt/m/n/10.95 plt.fill_between(x_values, np.maximum(y1_values,y2_values
+), 0, where=(y1_values>=y2_values), color="black")[] 
+ []
+
+
+Overfull \hbox (456.31366pt too wide) in paragraph at lines 574--574
+[]\OT1/cmtt/m/n/10.95 plt.fill_between(x_values, np.maximum(y1_values,y2_values
+), 0, where=(y1_values<=y2_values), color="gray", alpha=0.5, label='Feasible Re
+gion')[] 
+ []
+
+
+Overfull \hbox (140.13583pt too wide) in paragraph at lines 574--574
+[]\OT1/cmtt/m/n/10.95 plt.scatter(optimal_x, optimal_y, color="yellow", marker=
+'*', label="Optimal Solution")[] 
+ []
+
+[19]
+<solutions/num8.png, id=81, 241.65282pt x 61.73062pt>
+File: solutions/num8.png Graphic file (type png)
+<use solutions/num8.png>
+Package pdftex.def Info: solutions/num8.png  used on input line 577.
+(pdftex.def)             Requested size: 241.65222pt x 61.73045pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
+
+ []
+
+[20 <./solutions/num8.png>] (document.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1609 strings out of 475248
+ 34049 string characters out of 5767625
+ 1925785 words of memory out of 5000000
+ 23175 multiletter control sequences out of 15000+600000
+ 560055 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,192b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb>
+Output written on document.pdf (20 pages, 106577 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

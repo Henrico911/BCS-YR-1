@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="505" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.5" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:lower-roman; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:C-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Thu Sep 21 23:26:51 2023
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Thu Sep 21 23:26:51 2023
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="2699" last-saved="1695328011" uid="76617d82-58bc-11ee-8021-b77285ae862b">
+<version id="1" started="1695328011" uid="323f61ea-58bd-11ee-8021-b77285ae862b" auto="0" top-xid="227"/>
+</history>
+<styles>
+<s type="P" name="_Normal" basedon="Normal" props="margin-top:0.000000pt; font-size:11.000000pt; margin-bottom:10.000000pt; lang:ar-SA; line-height:1.150000; color:#000000; font-family:Calibri"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="lang:hi-IN; font-size:12.000000pt; font-family:Liberation Serif"/>
+<s type="P" name="List Paragraph" basedon="_Normal" props="text-indent:-0.000000pt; margin-bottom:10.000000pt; margin-top:0.000000pt; margin-left:36.000000pt"/>
+<s type="P" name="Footer" basedon="_Normal" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"/>
+<s type="P" name="Body Text" basedon="_Normal" props="margin-top:0.000000pt; line-height:1.150000; margin-bottom:7.000000pt"/>
+<s type="P" name="Caption" basedon="_Normal" props="margin-top:6.000000pt; font-size:12.000000pt; margin-bottom:6.000000pt; font-family:FreeSans; font-style:italic"/>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="C" name="Footer Char" basedon="Default Paragraph Font"/>
+<s type="P" name="Header" basedon="_Normal" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"/>
+<s type="C" name="Header Char" basedon="Default Paragraph Font"/>
+<s type="P" name="Header and Footer" basedon="_Normal" props="tabstops:0.500000in/0,3.462500in/C0,6.925000in/R0"/>
+<s type="P" name="Heading" basedon="_Normal" followedby="Body Text" props="margin-top:12.000000pt; font-size:14.000000pt; margin-bottom:6.000000pt; font-family:Liberation Sans"/>
+<s type="C" name="Hyperlink" basedon="Normal" props="text-decoration:underline; color:0000FF"/>
+<s type="P" name="Index" basedon="_Normal" props="font-family:FreeSans"/>
+<s type="P" name="List" basedon="Body Text" props="font-family:FreeSans"/>
+<s type="P" name="Table Contents" basedon="_Normal"/>
+<s type="P" name="Table Heading" basedon="Table Contents" props="text-align:center; font-weight:bold"/>
+<s type="P" name="Text Body" basedon="Normal" props="margin-top:0.0000in; font-size:12pt; margin-bottom:0.0972in; lang:en-US; line-height:1.150000; color:000000; text-align:left; font-family:Liberation Serif"/>
+<s type="P" name="WW8Num1" basedon="Normal"/>
+<s type="P" name="WW8Num10" basedon="Normal"/>
+<s type="C" name="WW8Num10z0" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num10z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num10z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num11" basedon="Normal"/>
+<s type="C" name="WW8Num11z0" basedon="Normal" props="font-family:Times New Roman; font-style:normal"/>
+<s type="C" name="WW8Num11z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num11z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num11z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num12" basedon="Normal"/>
+<s type="P" name="WW8Num13" basedon="Normal"/>
+<s type="C" name="WW8Num13z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num13z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num13z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num14" basedon="Normal"/>
+<s type="C" name="WW8Num14z0" basedon="Normal"/>
+<s type="P" name="WW8Num15" basedon="Normal"/>
+<s type="C" name="WW8Num15z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num15z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num15z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num16" basedon="Normal"/>
+<s type="C" name="WW8Num16z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num16z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num16z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num17" basedon="Normal"/>
+<s type="C" name="WW8Num17z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num17z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num17z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num18" basedon="Normal"/>
+<s type="C" name="WW8Num18z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num18z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num18z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num19" basedon="Normal"/>
+<s type="C" name="WW8Num19z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num19z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num19z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num1z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num1z1" basedon="Normal"/>
+<s type="C" name="WW8Num1z4" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num1z5" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num2" basedon="Normal"/>
+<s type="P" name="WW8Num20" basedon="Normal"/>
+<s type="P" name="WW8Num21" basedon="Normal"/>
+<s type="C" name="WW8Num21z0" basedon="Normal"/>
+<s type="P" name="WW8Num22" basedon="Normal"/>
+<s type="P" name="WW8Num23" basedon="Normal"/>
+<s type="P" name="WW8Num24" basedon="Normal"/>
+<s type="C" name="WW8Num24z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num24z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num24z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num25" basedon="Normal"/>
+<s type="C" name="WW8Num25z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num25z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num25z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num26" basedon="Normal"/>
+<s type="C" name="WW8Num26z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num26z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num26z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num27" basedon="Normal"/>
+<s type="C" name="WW8Num27z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num27z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num27z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num28" basedon="Normal"/>
+<s type="C" name="WW8Num28z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num28z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num28z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num29" basedon="Normal"/>
+<s type="C" name="WW8Num29z0" basedon="Normal"/>
+<s type="C" name="WW8Num2z0" basedon="Normal" props="font-style:normal"/>
+<s type="C" name="WW8Num2z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num2z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num2z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num3" basedon="Normal"/>
+<s type="P" name="WW8Num30" basedon="Normal"/>
+<s type="C" name="WW8Num30z0" basedon="Normal" props="font-family:Times New Roman"/>
+<s type="C" name="WW8Num30z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num30z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num30z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num31" basedon="Normal"/>
+<s type="C" name="WW8Num31z0" basedon="Normal"/>
+<s type="P" name="WW8Num32" basedon="Normal"/>
+<s type="C" name="WW8Num32z0" basedon="Normal"/>
+<s type="P" name="WW8Num33" basedon="Normal"/>
+<s type="C" name="WW8Num33z0" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num33z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num33z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num34" basedon="Normal"/>
+<s type="C" name="WW8Num34z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num34z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num34z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num35" basedon="Normal"/>
+<s type="C" name="WW8Num35z0" basedon="Normal"/>
+<s type="C" name="WW8Num35z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num35z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num35z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num36" basedon="Normal"/>
+<s type="C" name="WW8Num36z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num36z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num36z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num37" basedon="Normal"/>
+<s type="C" name="WW8Num37z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num37z1" basedon="Normal"/>
+<s type="C" name="WW8Num37z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num37z4" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="WW8Num38" basedon="Normal"/>
+<s type="C" name="WW8Num38z0" basedon="Normal" props="font-family:Symbol; font-style:normal"/>
+<s type="C" name="WW8Num38z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num38z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num38z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num39" basedon="Normal"/>
+<s type="C" name="WW8Num39z0" basedon="Normal"/>
+<s type="C" name="WW8Num3z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num3z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num3z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num4" basedon="Normal"/>
+<s type="P" name="WW8Num40" basedon="Normal"/>
+<s type="C" name="WW8Num40z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num40z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num40z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num41" basedon="Normal"/>
+<s type="C" name="WW8Num41z0" basedon="Normal" props="font-family:Times New Roman; font-style:normal"/>
+<s type="C" name="WW8Num41z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num41z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num41z3" basedon="Normal" props="font-family:Symbol"/>
+<s type="P" name="WW8Num42" basedon="Normal"/>
+<s type="P" name="WW8Num43" basedon="Normal"/>
+<s type="C" name="WW8Num43z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num43z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num43z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num44" basedon="Normal"/>
+<s type="C" name="WW8Num44z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num44z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num44z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num4z0" basedon="Normal"/>
+<s type="P" name="WW8Num5" basedon="Normal"/>
+<s type="C" name="WW8Num5z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num5z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num5z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num6" basedon="Normal"/>
+<s type="C" name="WW8Num6z0" basedon="Normal"/>
+<s type="P" name="WW8Num7" basedon="Normal"/>
+<s type="C" name="WW8Num7z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num7z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num7z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num8" basedon="Normal"/>
+<s type="C" name="WW8Num8z0" basedon="Normal" props="font-family:Symbol"/>
+<s type="C" name="WW8Num8z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num8z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="P" name="WW8Num9" basedon="Normal"/>
+<s type="C" name="WW8Num9z0" basedon="Normal" props="font-family:Times New Roman"/>
+<s type="C" name="WW8Num9z1" basedon="Normal" props="font-family:Courier New"/>
+<s type="C" name="WW8Num9z2" basedon="Normal" props="font-family:Wingdings"/>
+<s type="C" name="WW8Num9z3" basedon="Normal" props="font-family:Symbol"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section footer="0" xid="2" props="page-margin-right:1.000000in; page-margin-left:1.000000in; page-margin-top:0.562500in; page-margin-bottom:0.812500in">
+<p style="_Normal" xid="3" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-size:12.000000pt; text-decoration:underline; font-family:Times New Roman; font-weight:bold">MINUTES OF SKURGE TECHNOLOGIES MEETING HELD ON 30/09/2023 AT SERENA HOTEL- KAMPALA, FOR REDESIDNING THE MOUNTAINS OF THE MOON UNIVERSITY WEBSITE, STARTING 3:45PM</c></p>
+<p style="_Normal" xid="4" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="5" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="6" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">MEMBERS PRESENT</c></p>
+<table xid="7" props="table-column-props:0.5625in/1.6250in/2.0000in/2.3750in/; table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/29.050000pt/; list-tag:1">
+<cell xid="8" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="9" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">S/No.</c></p>
+</cell>
+<cell xid="10" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="11" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Name</c></p>
+</cell>
+<cell xid="14" props="right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; background-color:DBE5F1; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="15" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Email address</c></p>
+</cell>
+<cell xid="261" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
+<p style="_Normal" xid="262" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12pt">Title</c><c props="font-weight:bold"></c></p>
+</cell>
+<cell xid="16" props="table-row-heights:12.350000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="17" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">1</c></p>
+</cell>
+<cell xid="18" props="table-row-heights:12.350000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="List Paragraph" xid="19" props="text-indent:-0.000000pt; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Tweheyo Johnson</c></p>
+</cell>
+<cell xid="22" props="table-row-heights:12.350000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="23" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">sarah.johnson@email.com</c></p>
+</cell>
+<cell xid="264" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
+<p style="_Normal" xid="265" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="24" props="table-row-heights:12.350000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="25" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">2</c></p>
+</cell>
+<cell xid="26" props="table-row-heights:12.350000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="List Paragraph" xid="27" props="text-indent:0in; tabstops:0.000000in/0; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0in"><c props="font-family:Times New Roman; font-size:12.000000pt">Kafeero David </c></p>
+</cell>
+<cell xid="30" props="table-row-heights:12.350000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="31" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">david.miller@email.com</c></p>
+</cell>
+<cell xid="267" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
+<p style="_Normal" xid="268" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="32" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="33" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">3</c></p>
+</cell>
+<cell xid="34" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="List Paragraph" xid="35" props="text-indent:0in; tabstops:0.000000in/0; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0in"><c props="font-family:Times New Roman; font-size:12.000000pt">Mukisa Edward</c></p>
+</cell>
+<cell xid="38" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="39" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">lisa.williams@email.com</c></p>
+</cell>
+<cell xid="270" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
+<p style="_Normal" xid="271" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="40" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="41" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">4</c></p>
+</cell>
+<cell xid="42" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="43" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Isanga Smith</c></p>
+</cell>
+<cell xid="46" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="47" props="text-align:justify; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">robert.smith</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="273" props="bot-attach:5; left-attach:3; right-attach:4; top-attach:4">
+<p style="_Normal" xid="274" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="48" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="49" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">5</c></p>
+</cell>
+<cell xid="50" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="51" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Kayoga Davis</c></p>
+</cell>
+<cell xid="54" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="55" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">emily.davis</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="276" props="bot-attach:6; left-attach:3; right-attach:4; top-attach:5">
+<p style="_Normal" xid="277" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="56" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:7; top-attach:6">
+<p style="_Normal" xid="57" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">6</c></p>
+</cell>
+<cell xid="58" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:7; top-attach:6">
+<p style="List Paragraph" xid="59" props="text-indent:0in; tabstops:0.000000in/0; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0in"><c props="font-family:Times New Roman; font-size:12.000000pt">Mugisa Michael Brown</c></p>
+</cell>
+<cell xid="62" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:7; top-attach:6">
+<p style="List Paragraph" xid="63" props="text-align:left; text-indent:0in; tabstops:0.000000in/0; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0in"><c props="font-family:Times New Roman; font-size:12.000000pt">michael.brown</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="279" props="bot-attach:7; left-attach:3; right-attach:4; top-attach:6">
+<p style="_Normal" xid="280" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="64" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:8; top-attach:7">
+<p style="_Normal" xid="65" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">7</c></p>
+</cell>
+<cell xid="66" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:8; top-attach:7">
+<p style="List Paragraph" xid="67" props="text-indent:-0.000000pt; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Tumogonze Wilson</c></p>
+</cell>
+<cell xid="70" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:8; top-attach:7">
+<p style="List Paragraph" xid="71" props="text-align:left; margin-top:0.000000pt; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt">jennifer.wilson<c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="282" props="bot-attach:8; left-attach:3; right-attach:4; top-attach:7">
+<p style="_Normal" xid="283" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="72" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:9; top-attach:8">
+<p style="_Normal" xid="73" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">8</c></p>
+</cell>
+<cell xid="74" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:9; top-attach:8">
+<p style="_Normal" xid="75" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Ayikobua Daniel </c></p>
+</cell>
+<cell xid="78" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:9; top-attach:8">
+<p style="_Normal" xid="79" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">daniel.lee</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="285" props="bot-attach:9; left-attach:3; right-attach:4; top-attach:8">
+<p style="_Normal" xid="286" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="80" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:10; top-attach:9">
+<p style="_Normal" xid="81" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">9</c></p>
+</cell>
+<cell xid="82" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:10; top-attach:9">
+<p style="_Normal" xid="83" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Atuhaire Anderson</c></p>
+</cell>
+<cell xid="86" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:10; top-attach:9">
+<p style="_Normal" xid="87" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">jessica.anderson</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="288" props="bot-attach:10; left-attach:3; right-attach:4; top-attach:9">
+<p style="_Normal" xid="289" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+<cell xid="88" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:11; top-attach:10">
+<p style="_Normal" xid="89" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">10</c></p>
+</cell>
+<cell xid="90" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:11; top-attach:10">
+<p style="_Normal" xid="91" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Atugonza Godfrey</c></p>
+</cell>
+<cell xid="94" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-color:000000; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; top-thickness:0.500000pt; right-thickness:0.500000pt; left-color:000000; left-style:1; left-attach:2; top-style:1; right-style:1; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; bot-color:000000; left-thickness:0.500000pt; bot-attach:11; top-attach:10">
+<p style="_Normal" xid="95" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">william.hall</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="291" props="bot-attach:11; left-attach:3; right-attach:4; top-attach:10">
+<p style="_Normal" xid="292" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c></c></p>
+</cell>
+</table>
+<p style="_Normal" xid="96" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="97" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="98" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">MEMBERS PRESENT WITH APOLOGY</c></p>
+<table xid="100" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/">
+<cell xid="101" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="102" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">S/No.</c></p>
+</cell>
+<cell xid="103" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="104" props="bgcolor:DBE5F1; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Name</c></p>
+</cell>
+<cell xid="105" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="106" props="text-align:right; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Phone</c></p>
+</cell>
+<cell xid="107" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; top-color:000000; bot-color:000000; left-attach:3; top-style:1; right-style:1; right-attach:4; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="108" props="text-align:right; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:DBE5F1"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Email address</c></p>
+</cell>
+<cell xid="109" props="table-row-heights:12.350000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="110" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">1.</c></p>
+</cell>
+<cell xid="111" props="table-row-heights:12.350000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="List Paragraph" xid="112" props="text-indent:-0.000000pt; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Sarah Johnson</c></p>
+</cell>
+<cell xid="113" props="table-row-heights:12.350000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="114" props="text-align:left; margin-top:0.000000pt; margin-bottom:10.000000pt">+1 (555) 234-5678</p>
+</cell>
+<cell xid="115" props="table-row-heights:12.350000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:3; top-style:1; right-style:1; right-attach:4; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="116" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">sarah.johnson@email.com</c></p>
+</cell>
+<cell xid="117" props="table-row-heights:12.350000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="118" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">2</c></p>
+</cell>
+<cell xid="119" props="table-row-heights:12.350000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="List Paragraph" xid="120" props="text-indent:0in; tabstops:0.000000in/0; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0in"><c props="font-family:Times New Roman; font-size:12.000000pt">David Miller</c></p>
+</cell>
+<cell xid="122" props="table-row-heights:12.350000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="123" props="text-align:left; margin-top:0.000000pt; margin-bottom:10.000000pt">+1 (555) 234-5678</p>
+</cell>
+<cell xid="124" props="table-row-heights:12.350000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:3; top-style:1; right-style:1; right-attach:4; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="125" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">david.miller@email.com</c></p>
+</cell>
+<cell xid="126" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="127" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">3</c></p>
+</cell>
+<cell xid="128" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="List Paragraph" xid="129" props="text-indent:0in; tabstops:0.000000in/0; margin-bottom:0.000000pt; margin-top:0.000000pt; margin-left:0in"><c props="font-family:Times New Roman; font-size:12.000000pt">Lisa Williams</c></p>
+</cell>
+<cell xid="131" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="132" props="text-align:left; margin-top:0.000000pt; margin-bottom:10.000000pt">+1 (555) 234-5678</p>
+</cell>
+<cell xid="133" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:3; top-style:1; right-style:1; right-attach:4; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="134" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">lisa.williams@email.com</c></p>
+</cell>
+<cell xid="135" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="136" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">4</c></p>
+</cell>
+<cell xid="137" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="138" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Robert Smith</c></p>
+</cell>
+<cell xid="139" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="140" props="text-align:left; margin-top:0.000000pt; margin-bottom:10.000000pt">+1 (555) 234-5678</p>
+</cell>
+<cell xid="141" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:3; top-style:1; right-style:1; right-attach:4; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="142" props="text-align:justify; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">robert.smith</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+<cell xid="143" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="144" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">5.</c></p>
+</cell>
+<cell xid="145" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="146" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Emily Davis</c></p>
+</cell>
+<cell xid="147" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="148" props="text-align:left; margin-top:0.000000pt; margin-bottom:10.000000pt">+1 (555) 234-5678</p>
+</cell>
+<cell xid="149" props="table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:3; top-style:1; right-style:1; right-attach:4; left-style:1; left-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="150" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">emily.davis</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:000000">@email.com</c></p>
+</cell>
+</table>
+<p style="_Normal" xid="151" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="387" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="393" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="153" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:ar-SA">MEMBERS PRESENT WITHOUT APOLOGY</c></p>
+<table xid="301" props="table-column-props:38.500000pt/163.250000pt/106.800000pt/163.950000pt/; table-row-heights:12.350000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/13.050000pt/; table-sdh:0x55e14f5dd180">
+<cell xid="302" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; left-color:000000; top-style:1; left-attach:0; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="303" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:center; margin-right:0.0000in"><c props="font-family:Times New Roman; bgcolor:dbe5f1; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:ar-SA">S/No.</c></p>
+</cell>
+<cell xid="305" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; left-color:000000; top-style:1; left-attach:1; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="306" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; bgcolor:dbe5f1; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:ar-SA">Name</c></p>
+</cell>
+<cell xid="308" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; left-color:000000; top-style:1; left-attach:2; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="309" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:right; margin-right:0.0000in"><c props="font-family:Times New Roman; bgcolor:dbe5f1; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:ar-SA">Phone</c></p>
+</cell>
+<cell xid="311" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; background-color:DBE5F1; right-color:000000; left-color:000000; top-style:1; left-attach:3; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="312" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:right; margin-right:0.0000in"><c props="font-family:Times New Roman; bgcolor:dbe5f1; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:ar-SA">Email address</c></p>
+</cell>
+<cell xid="314" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:0; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="315" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:center; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">1.</c></p>
+</cell>
+<cell xid="317" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:1; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="List Paragraph" xid="318" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">Sarah Johnson</c></p>
+</cell>
+<cell xid="320" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:2; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="321" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.1389in; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="font-family:Calibri; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">+1 (555) 234-5678</c></p>
+</cell>
+<cell xid="323" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:3; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="324" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">sarah.johnson@email.com</c></p>
+</cell>
+<cell xid="326" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:0; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="327" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:center; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">2</c></p>
+</cell>
+<cell xid="329" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:1; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p level="0" listid="0" parentid="0" style="List Paragraph" xid="330" props="margin-top:0.0000in; list-decimal:.; margin-left:0.0000in; start-value:1; text-indent:0.0000in; text-align:left; dom-dir:ltr; list-delim:%L; line-height:1.150000; tabstops:0.000000in/L0; list-style:None; margin-right:0.0000in; margin-bottom:0.0000in; field-font:NULL"><c props="list-tag:1032"></c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">David Miller</c></p>
+</cell>
+<cell xid="332" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:2; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="333" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.1389in; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="font-family:Calibri; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">+1 (555) 234-5678</c></p>
+</cell>
+<cell xid="335" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:3; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="336" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:ar-SA; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">david.miller@email.com</c></p>
+</cell>
+<cell xid="338" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:0; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="339" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:center; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">3</c></p>
+</cell>
+<cell xid="341" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:1; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="List Paragraph" xid="342" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; tabstops:0.000000in/L0; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="list-tag:1033"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">Lisa Williams</c></p>
+</cell>
+<cell xid="344" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:2; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="345" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.1389in; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="font-family:Calibri; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">+1 (555) 234-5678</c></p>
+</cell>
+<cell xid="347" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:3; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="348" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">lisa.williams@email.com</c></p>
+</cell>
+<cell xid="350" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:0; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="351" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:center; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">4</c></p>
+</cell>
+<cell xid="353" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:1; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="354" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">Robert Smith</c></p>
+</cell>
+<cell xid="356" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:2; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="357" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.1389in; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="font-family:Calibri; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">+1 (555) 234-5678</c></p>
+</cell>
+<cell xid="359" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:3; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="360" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:justify; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">robert.smith</c><c props="font-family:Times New Roman; font-size:12pt; lang:ar-SA; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">@email.com</c></p>
+</cell>
+<cell xid="362" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:0; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="363" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:center; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">5.</c></p>
+</cell>
+<cell xid="365" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:1; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="366" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">Emily Davis</c></p>
+</cell>
+<cell xid="368" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:2; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="369" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.1389in; line-height:1.150000; text-align:left; margin-right:0.0000in"><c props="font-family:Calibri; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">+1 (555) 234-5678</c></p>
+</cell>
+<cell xid="371" props="right-thickness:0.500000pt; top-color:000000; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-color:000000; left-color:000000; top-style:1; left-attach:3; left-style:1; right-style:1; bot-color:000000; top-thickness:0.500000pt; bot-attach:6; top-attach:5">
+<p style="_Normal" xid="372" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:ar-SA">emily.davis</c><c props="font-family:Times New Roman; font-size:12pt; lang:ar-SA; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">@email.com</c></p>
+</cell>
+</table>
+<p style="_Normal" xid="375" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.150000; text-align:left; margin-right:0.0000in"></p>
+<p style="_Normal" xid="154" props="font-family:Calibri; font-size:11pt; color:000000; text-decoration:none; margin-top:0.000000pt; text-position:normal; font-weight:normal; margin-bottom:0.000000pt; font-style:normal; lang:ar-SA"><c></c></p>
+<p style="_Normal" xid="155" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="156" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="157" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="158" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="159" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Agenda</c></p>
+<p style="_Normal" xid="160" props="text-align:left">1. Opening prayer</p>
+<p style="_Normal" xid="161" props="text-align:left">2. Review of Project Objectives</p>
+<p style="_Normal" xid="162" props="text-align:left">3. Technical Requirements and Stack</p>
+<p style="_Normal" xid="163" props="text-align:left">4. Website Architecture</p>
+<p style="_Normal" xid="164" props="text-align:left">5. Content Management</p>
+<p style="_Normal" xid="165" props="text-align:left">6. Integration with University Systems</p>
+<p style="_Normal" xid="166" props="text-align:left">7. Security and Compliance</p>
+<p style="_Normal" xid="167" props="text-align:left">8. Testing and Quality Assurance</p>
+<p style="_Normal" xid="168" props="text-align:left">9. Timeline and Milestones</p>
+<p style="_Normal" xid="169" props="text-align:left">10. Resource Allocation</p>
+<p style="_Normal" xid="170" props="text-align:left">11. Action Items and Next Steps</p>
+<p style="_Normal" xid="171" props="text-align:left">12. Questions and Open Discussion</p>
+<p style="_Normal" xid="172" props="text-align:left"><c props="font-family:Times New Roman; font-size:12.000000pt">13. Wrap-Up and Next Meeting</c></p>
+<p style="_Normal" xid="173" props="text-align:left"><c props="font-family:Times New Roman; font-size:12.000000pt">14. Closing prayer</c></p>
+<p style="_Normal" xid="174" props="margin-bottom:0.000000pt; margin-top:12.000000pt"><c></c></p>
+<table xid="175" props="table-column-props:1.6875in/4.6250in/1.1250in/; table-row-heights:0.1875in/0.5625in/0.9375in/0.9375in/0.4375in/0.3750in/0.2500in/; list-tag:1">
+<cell xid="176" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="177" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Minute</c></p>
+</cell>
+<cell xid="178" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="179" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Deliberation</c></p>
+</cell>
+<cell xid="180" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:1; top-attach:0">
+<p style="_Normal" xid="181" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Remarks</c></p>
+</cell>
+<cell xid="182" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="183" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/01</c></p>
+<p style="_Normal" xid="184" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Record of Attendance and Opening prayer</c></p>
+</cell>
+<cell xid="185" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p level="0" style="List Paragraph" xid="186" props="margin-top:0.000000pt; margin-left:8.100000pt; text-indent:-0.000000pt; dom-dir:ltr; margin-bottom:0.000000pt; line-height:1.000000; text-align:left">    • The opening prayer was led by Mr. Kirabo Ibrahim </p>
+<p level="0" style="List Paragraph" xid="298" props="margin-top:0.000000pt; margin-left:8.100000pt; text-indent:-0.000000pt; dom-dir:ltr; margin-bottom:0.000000pt; line-height:1.000000; text-align:left">    • The secretary read the proposed agenda for members present. </p>
+<p level="0" style="List Paragraph" xid="388" props="margin-top:0.000000pt; margin-left:8.100000pt; text-indent:-0.000000pt; dom-dir:ltr; margin-bottom:0.000000pt; line-height:1.000000; text-align:left">    • The agenda was approved as proposed.   </p>
+</cell>
+<cell xid="187" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:2; top-attach:1">
+<p style="_Normal" xid="188" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c></c></p>
+</cell>
+<cell xid="189" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="190" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/02</c></p>
+<p style="_Normal" xid="191" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"> </c><c props="font-family:Liberation Serif; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Review of Project Objectives</c></p>
+</cell>
+<cell xid="192" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p level="0" style="List Paragraph" xid="193" props="margin-top:0.000000pt; margin-left:27.350000pt; text-indent:-0.000000pt; dom-dir:ltr; margin-bottom:0.000000pt; line-height:1.000000; text-align:left"> <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Recap of the overarching goals and objectives for the website redesign project.</c></p>
+<p level="0" style="Normal" xid="390" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Ensure alignment with the university's mission and branding.</c></p>
+<p level="0" style="List Paragraph" xid="389" props="font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; margin-left:27.350000pt; lang:en-US; text-align:left; font-weight:normal; text-decoration:none; dom-dir:ltr; margin-bottom:0.000000pt; line-height:1.000000; color:000000; text-position:normal; text-indent:-0.000000pt; font-size:12pt"></p>
+<p level="0" style="List Paragraph" xid="297" props="font-family:Liberation Serif; dom-dir:ltr; font-style:normal; margin-left:27.350000pt; text-indent:-0.000000pt; lang:-none-; text-position:normal; font-weight:normal; text-align:left; margin-top:0.000000pt; margin-bottom:0.000000pt; text-decoration:none; color:000000; line-height:1.000000; font-size:12pt"><c></c></p>
+</cell>
+<cell xid="194" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:3; top-attach:2">
+<p style="_Normal" xid="195" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c></c></p>
+</cell>
+<cell xid="196" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="197" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/03</c></p>
+<p style="_Normal" xid="198" props="text-align:left; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt; dom-dir:ltr"><c props="font-weight:bold">Technical Requirements and Stack</c></p>
+</cell>
+<cell xid="199" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="List Paragraph" xid="200" props="font-family:Liberation Serif; margin-top:0.000000pt; margin-bottom:0.000000pt; margin-left:0.0000in; lang:en-US; text-position:normal; font-weight:normal; text-decoration:none; font-style:normal; line-height:1.000000; color:000000; text-indent:-0.0625in; font-size:12pt">          <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Presentation of the technical requirements and preferences for the new website.</c></p>
+<p style="Normal" xid="394" props="font-family:Liberation Serif; margin-top:0.0000in; font-style:normal; margin-left:0.0000in; text-align:left; lang:en-US; text-position:normal; text-indent:0.0000in; text-decoration:none; dom-dir:ltr; font-weight:normal; margin-right:0.0000in; color:000000; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Discussion of the technology stack to be used (e.g., CMS, programming languages, frameworks).</c></p>
+<p style="Normal" xid="395" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Consideration of hosting options and scalability requirements.</c>  </p>
+</cell>
+<cell xid="201" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:4; top-attach:3">
+<p style="_Normal" xid="202" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt"> </c></p>
+<p style="_Normal" xid="203" props="text-align:center; margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c></c></p>
+</cell>
+<cell xid="204" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:1; right-style:1; right-attach:1; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="205" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/04</c></p>
+<p style="List Paragraph" xid="206" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Website Architecture</c></p>
+</cell>
+<cell xid="208" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:1; right-style:1; right-attach:2; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p level="0" style="List Paragraph" xid="209" props="margin-left:18.050000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:0.000000pt; color:000000; text-position:normal; line-height:1.000000; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Discuss the proposed website architecture, including information about site navigation, sitemaps, and content organization.</c></p>
+<p level="0" style="Normal" xid="486" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Consideration of user experience (UX) and responsive design principles.</c></p>
+</cell>
+<cell xid="210" props="right-thickness:0.500000pt; left-color:000000; bot-style:1; bot-thickness:0.500000pt; table-column-props:120.600000pt/333.050000pt/76.200000pt/; top-thickness:0.500000pt; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; top-style:1; right-style:1; right-attach:3; left-style:1; left-thickness:0.500000pt; bot-attach:5; top-attach:4">
+<p style="_Normal" xid="211" props="margin-top:0.000000pt; line-height:1.000000; margin-bottom:0.000000pt"><c></c></p>
+</cell>
+<cell xid="396" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="List Paragraph" xid="397" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/05</c></p>
+<p style="List Paragraph" xid="487" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Content Management</c></p>
+</cell>
+<cell xid="399" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="List Paragraph" xid="400" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">  <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"> - Review content management needs and options.</c></p>
+<p style="Normal" xid="488" props="font-family:Liberation Serif; margin-top:0.0000in; font-style:normal; margin-left:0.0000in; text-align:left; lang:en-US; text-position:normal; text-indent:0.0000in; text-decoration:none; dom-dir:ltr; font-weight:normal; margin-right:0.0000in; color:000000; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Discuss content creation, editing, and publishing workflows.</c></p>
+<p style="Normal" xid="489" props="font-family:Liberation Serif; margin-top:0.0000in; font-style:normal; margin-left:0.0000in; text-align:left; lang:en-US; text-position:normal; text-indent:0.0000in; text-decoration:none; dom-dir:ltr; font-weight:normal; margin-right:0.0000in; color:000000; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Ensure content will be easily maintainable by non-technical users.</c></p>
+</cell>
+<cell xid="402" props="bot-attach:6; left-attach:2; right-attach:3; top-attach:5">
+<p style="List Paragraph" xid="403" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="405" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
+<p style="List Paragraph" xid="406" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-weight:bold; font-size:12pt">Min. 30/SKTC/10/06</c></p>
+<p style="List Paragraph" xid="490" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Integration with University Systems</c></p>
+</cell>
+<cell xid="408" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
+<p style="List Paragraph" xid="409" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">     <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Explore integration points with existing university systems (e.g., student information systems, authentication systems).</c></p>
+<p style="Normal" xid="491" props="font-family:Liberation Serif; margin-top:0.0000in; font-style:normal; margin-left:0.0000in; text-align:left; lang:en-US; text-position:normal; text-indent:0.0000in; text-decoration:none; dom-dir:ltr; font-weight:normal; margin-right:0.0000in; color:000000; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Ensure seamless data exchange and authentication processes.</c></p>
+</cell>
+<cell xid="411" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
+<p style="List Paragraph" xid="412" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="414" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
+<p style="List Paragraph" xid="415" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/07</c></p>
+<p style="List Paragraph" xid="492" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Security and Compliance</c></p>
+</cell>
+<cell xid="417" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
+<p style="List Paragraph" xid="418" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">     <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Discuss security measures, including data protection, SSL/TLS, and user authentication.</c></p>
+<p style="Normal" xid="493" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Ensure compliance with accessibility standards (e.g., WCAG) and privacy regulations (e.g., GDPR).</c></p>
+</cell>
+<cell xid="420" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
+<p style="List Paragraph" xid="421" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="423" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<p style="List Paragraph" xid="424" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/08</c></p>
+<p style="List Paragraph" xid="494" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Testing and Quality Assurance</c></p>
+</cell>
+<cell xid="426" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<p style="List Paragraph" xid="427" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">     <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Briefly outline the testing process, including unit testing, integration testing, and user testing.</c></p>
+<p style="Normal" xid="501" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">   - Discuss tools and methodologies for ensuring quality.</c></p>
+</cell>
+<cell xid="429" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
+<p style="List Paragraph" xid="430" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="432" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
+<p style="List Paragraph" xid="433" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/09</c></p>
+<p style="List Paragraph" xid="495" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Timeline and Milestones</c></p>
+</cell>
+<cell xid="435" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
+<p style="List Paragraph" xid="436" props="margin-top:0.000000pt; margin-left:0.000000pt; text-indent:-0.000000pt; dom-dir:ltr; margin-bottom:8.000000pt; line-height:1.066667; text-align:left">       - Review the project timeline, including major milestones and deadlines.</p>
+<p style="List Paragraph" xid="502" props="margin-top:0.000000pt; margin-left:0.000000pt; text-indent:-0.000000pt; dom-dir:ltr; margin-bottom:8.000000pt; line-height:1.066667; text-align:left">   - Identify potential bottlenecks or risks in the schedule.</p>
+</cell>
+<cell xid="438" props="bot-attach:10; left-attach:2; right-attach:3; top-attach:9">
+<p style="List Paragraph" xid="439" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="441" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
+<p style="List Paragraph" xid="442" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/10</c></p>
+<p style="List Paragraph" xid="496" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Resource Allocation</c></p>
+</cell>
+<cell xid="444" props="bot-attach:11; left-attach:1; right-attach:2; top-attach:10">
+<p style="List Paragraph" xid="445" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">       <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Discuss resource needs, including team members, tools, and third-party services.</c></p>
+<p style="Normal" xid="503" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">    - Consider any budgetary constraints.</c></p>
+</cell>
+<cell xid="447" props="bot-attach:11; left-attach:2; right-attach:3; top-attach:10">
+<p style="List Paragraph" xid="448" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="477" props="bot-attach:12; left-attach:0; right-attach:1; top-attach:11">
+<p style="List Paragraph" xid="478" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/11</c></p>
+<p style="List Paragraph" xid="497" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Action Items and Next Steps</c></p>
+</cell>
+<cell xid="480" props="bot-attach:12; left-attach:1; right-attach:2; top-attach:11">
+<p style="List Paragraph" xid="481" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">     <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Summarize action items and responsibilities arising from the meeting.</c></p>
+<p style="Normal" xid="504" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">    - Set deadlines for action items.</c>  </p>
+</cell>
+<cell xid="483" props="bot-attach:12; left-attach:2; right-attach:3; top-attach:11">
+<p style="List Paragraph" xid="484" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="450" props="bot-attach:13; left-attach:0; right-attach:1; top-attach:12">
+<p style="List Paragraph" xid="451" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/12</c></p>
+<p style="List Paragraph" xid="498" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Questions and Open Discussion</c></p>
+</cell>
+<cell xid="453" props="bot-attach:13; left-attach:1; right-attach:2; top-attach:12">
+<p style="List Paragraph" xid="454" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">  <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">-Open the floor for questions, comments, and additional discussion.</c></p>
+</cell>
+<cell xid="456" props="bot-attach:13; left-attach:2; right-attach:3; top-attach:12">
+<p style="List Paragraph" xid="457" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="459" props="bot-attach:14; left-attach:0; right-attach:1; top-attach:13">
+<p style="List Paragraph" xid="460" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/13</c></p>
+<p style="List Paragraph" xid="499" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Wrap-Up and Next Meeting</c></p>
+</cell>
+<cell xid="462" props="bot-attach:14; left-attach:1; right-attach:2; top-attach:13">
+<p style="List Paragraph" xid="463" props="margin-left:0.000000pt; font-family:Liberation Serif; margin-top:0.000000pt; font-style:normal; font-weight:normal; lang:en-US; text-align:justify; text-indent:-0.000000pt; text-decoration:none; margin-bottom:8.000000pt; color:000000; text-position:normal; line-height:1.066667; font-size:12pt">       <c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Provide a brief summary of key takeaways.</c></p>
+<p style="Normal" xid="505" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">    - Announce the date, time, and agenda for the next meeting, if applicable.</c></p>
+</cell>
+<cell xid="465" props="bot-attach:14; left-attach:2; right-attach:3; top-attach:13">
+<p style="List Paragraph" xid="466" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+<cell xid="468" props="bot-attach:15; left-attach:0; right-attach:1; top-attach:14">
+<p style="List Paragraph" xid="469" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">Min. 30/SKTC/10/14</c></p>
+<p style="List Paragraph" xid="500" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c></p>
+</cell>
+<cell xid="471" props="bot-attach:15; left-attach:1; right-attach:2; top-attach:14">
+<p style="List Paragraph" xid="472" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt">       </p>
+</cell>
+<cell xid="474" props="bot-attach:15; left-attach:2; right-attach:3; top-attach:14">
+<p style="List Paragraph" xid="475" props="text-align:justify; margin-top:0.000000pt; line-height:1.066667; margin-bottom:8.000000pt; text-indent:-0.000000pt; margin-left:0.000000pt"><c></c></p>
+</cell>
+</table>
+<p style="_Normal" xid="212" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="213" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="214" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="215" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="216" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">Signed</c></p>
+<p style="_Normal" xid="217" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c></c></p>
+<p style="_Normal" xid="218" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">----------------------------------------				---------------------------------------</c></p>
+<p style="_Normal" xid="219" props="margin-bottom:0.000000pt; margin-top:0.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Mr. John Alinaitwe – Chairman 	   			Charles Nyakwebara – Secretary</c></p>
+<p style="_Normal" xid="220" props="margin-bottom:0.000000pt; margin-top:12.000000pt"><c props="font-family:Times New Roman; font-size:12.000000pt">Date …………………………..				Date …………………………….</c></p>
+<p style="_Normal" xid="221" props="margin-bottom:0.000000pt; margin-top:12.000000pt"><c></c></p>
+<p style="_Normal" xid="222" props="margin-bottom:0.000000pt; margin-top:12.000000pt"><c></c></p>
+<p style="_Normal" xid="223" props="margin-bottom:0.000000pt; margin-top:12.000000pt"><c></c></p>
+<p style="_Normal" xid="224" props="margin-bottom:0.000000pt; margin-top:12.000000pt"><c></c></p>
+</section>
+<section type="footer" id="0" xid="225">
+<p style="Footer" xid="226" props="text-align:right">3</p>
+<p style="Footer" xid="227"></p>
+</section>
+</abiword>

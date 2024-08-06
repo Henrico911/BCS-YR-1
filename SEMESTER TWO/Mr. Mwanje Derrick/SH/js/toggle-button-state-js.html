@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Button Example</title>
+</head>
+<body>
+
+    <button id="toggleButton">Toggle State</button>
+
+    <script>
+        var toggleButton = document.getElementById('toggleButton');
+        var isToggled = false;
+
+        toggleButton.addEventListener('click', function() {
+            isToggled = !isToggled;
+            if (isToggled) {
+                alert('Button is ON');
+            } else {
+                alert('Button is OFF');
+            }
+        });
+    </script>
+
+</body>
+</html>

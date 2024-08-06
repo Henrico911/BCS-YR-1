@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Real World Examples Of Linear Programming \emph {Solved}}{3}{}%
+\contentsline {subsection}{\numberline {1.1}\textbf {Number One: Basic Resource Allocation}}{3}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Load Balancing}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Energy-Efficient Resource Allocation}{7}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Multi-Tenant Resource Sharing}{9}{}%
+\contentsline {subsection}{\numberline {1.2}\textbf {Transportation Logistics Optimization}}{11}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Production Planning in Manufacturing}{11}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Financial Portfolio Optimization}{11}{}%
+\contentsline {subsection}{\numberline {1.3}\textbf {Project Resource Allocation Optimization}}{12}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}Diet Optimization}{12}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}Production Planning}{12}{}%

@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/eleph.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.m-bar {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: transparent;
+    text-align: center;
+    border: 2px solid #ff7200;
+    border-radius: 6px;
+}
+
+.m-bar ul {
+    display: inline-flex;
+    list-style-type: none;
+    color: #fff;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.m-bar ul li {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.m-bar ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.active, .m-bar ul li:hover {
+    background: hsl(151, 29%, 29%);
+    border-radius: 4px;
+    /* color: #fff; */
+    transition: .4s ease;
+}
+
+.services-menu {
+    display: none;
+    /* visibility: hidden; */
+}
+
+.m-bar ul li:hover .services-menu {
+    display: block;
+    position: absolute;
+    background: hsl(111, 25%, 35%);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+
+.m-bar ul li:hover .services-menu ul {
+    display: block;
+    margin: 10px;
+}
+
+.m-bar ul li:hover .services-menu ul li {
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    border-radius: 5px;
+    text-align: left;
+}

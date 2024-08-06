@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="123" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.5" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:C-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Thu Aug 31 17:37:10 2023
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Thu Aug 31 17:37:10 2023
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="63" last-saved="1693492630" uid="b8b8a0d2-480b-11ee-919f-dc42e90089f2">
+<version id="1" started="1693492630" uid="de0542aa-480b-11ee-919f-dc42e90089f2" auto="0" top-xid="1"/>
+</history>
+<styles>
+<s type="P" name="heading 3" basedon="_Normal" props="font-weight:bold; margin-top:5.000000pt; line-height:1.000000; margin-bottom:5.000000pt; font-family:Times New Roman; font-size:13.500000pt"/>
+<s type="P" name="_Normal" basedon="Normal"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="lang:ar-SA; font-size:11.000000pt; margin-bottom:8.000000pt; font-family:Times New Roman; line-height:1.079167"/>
+<s type="P" name="Normal (Web)" basedon="_Normal" props="margin-top:5.000000pt; line-height:1.000000; margin-bottom:5.000000pt; font-family:Times New Roman; font-size:12.000000pt"/>
+<s type="P" name="List Paragraph" basedon="_Normal" props="margin-left:36.000000pt"/>
+<s type="P" name="heading 1" basedon="_Normal" followedby="_Normal" props="margin-top:12.000000pt; font-size:16.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:2E74B5"/>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="C" name="Emphasis" basedon="Default Paragraph Font" props="font-style:italic"/>
+<s type="C" name="FollowedHyperlink" basedon="Default Paragraph Font" props="text-decoration:underline; color:954F72"/>
+<s type="C" name="Heading 1 Char" basedon="Default Paragraph Font" props="font-size:16.000000pt; font-family:Times New Roman; color:2E74B5"/>
+<s type="C" name="Heading 3 Char" basedon="Default Paragraph Font" props="font-weight:bold; font-family:Times New Roman; font-size:13.500000pt"/>
+<s type="C" name="Hyperlink" basedon="Default Paragraph Font" props="text-decoration:underline; color:0000FF"/>
+<s type="P" name="No List" basedon="Normal"/>
+<s type="P" name="Normal Table" basedon="Normal"/>
+</styles>
+<lists>
+<l id="110" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="120" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="130" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+</lists>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="2" props="page-margin-right:1.000000in; column-line:off; page-margin-left:1.000000in; columns:1; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p xid="3" props="line-height:1.500000"><c props="lang:-none-; font-weight:bold; font-family:Times New Roman; font-size:18.000000pt"></c></p>
+<frame strux-image-dataid="rId5" xid="4" props="ypos:-0.150678in; frame-width:3.379958in; frame-height:1.964546in; xpos:1.394413in; frame-type:image">
+</frame><p xid="5" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="6" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="7" props="text-align:center; line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:16.000000pt">MOUNTAINS OF THE MOON UNIVERSITY</c></p>
+<p xid="8" props="text-align:center; line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:16.000000pt">SCHOOL OF COMPUTER SCIENCE AND INNOVATION</c></p>
+<p xid="9" props="text-align:center; line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:16.000000pt">DEPARTMENT OF COMPUTER SCIENCE</c></p>
+<p xid="10" props="text-align:center; line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:16.000000pt">GROUP COURSE WORK</c></p>
+<p xid="11" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">NAME                                                                         	 REG</c></p>
+<p xid="12" props="line-height:1.500000"><bookmark type="start" name="_GoBack" xid="13"/><bookmark type="end" name="_GoBack" xid="14"/></p>
+<p xid="15" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">COURSE UNIT:                 			PRINCIPLES OF MANAGEMENT</c></p>
+<p xid="16" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">COURSE CODE:       			1102</c></p>
+<p xid="17" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">YEAR OF STUDY:				ONE</c></p>
+<p xid="18" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">SEMESTER:					ONE</c></p>
+<p xid="19" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">LECTURER;					</c></p>
+<p xid="20" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:12.000000pt">DATE OF SUBMISSION:			22/10/2022</c></p>
+<p xid="21" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:14.000000pt">Question</c></p>
+<p xid="22" props="line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:14.000000pt">Discuss the directing as function of management.</c></p>
+<p xid="23" props="line-height:1.500000"><c></c></p>
+<p xid="24" props="line-height:1.500000"><c props="font-family:Times New Roman; font-size:18.000000pt">DIRECTION AS A FUNCTION IN MANAGEMENT</c></p>
+<p xid="25" props="line-height:1.500000"><c props="font-family:Times New Roman; font-weight:bold">Directing – introduction</c></p>
+<p xid="26" props="line-height:1.500000"><c props="font-family:Times New Roman; font-weight:bold">Characteristic of directing</c></p>
+<p xid="27" props="line-height:1.500000"><c props="font-family:Times New Roman; font-weight:bold">Elements of directing</c></p>
+<p xid="28" props="line-height:1.500000"><c props="font-family:Times New Roman; font-weight:bold">Styles of directing</c></p>
+<p xid="29" props="line-height:1.500000"><c props="font-family:Times New Roman; font-weight:bold">Importance of directing</c></p>
+<p xid="30" props="line-height:1.500000"><c props="font-family:Times New Roman">Directing </c></p>
+<p xid="31" props="line-height:1.500000"><c props="font-family:Times New Roman; font-size:12.000000pt">Direction is an aspect of management that deals directly with influencing, guiding, supervising and motivating staff for achievement of organization goals.</c></p>
+<p xid="32" props="line-height:1.500000"><c props="font-family:Times New Roman; font-size:12.000000pt">Directing function of management refers to the process of instructing, guiding, counselling, motivating, and leading people in an organization to achieve the goals.</c></p>
+<p xid="33" props="line-height:1.500000"><c props="font-family:Times New Roman; font-size:12.000000pt">Directing refers to process through which the manager instructs, guide and oversee the performance of the workers to achieve predetermined goals.</c></p>
+<p xid="34" props="bgcolor:FFFFFF; line-height:1.500000; margin-bottom:11.250000pt"><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Directing or Direction function is said to be the heart of management of process and therefore, is the central point around which accomplishment of goals take place. A few philosophers call Direction as “</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444; font-style:italic">Life spark of an enterprise</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">”. It is also called as on actuating function of management because it is through direction that the operation of an enterprise actually starts. Being the central character of enterprise,</c></p>
+<p xid="35" props="line-height:1.500000"><c></c></p>
+<p xid="36" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="37" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="38" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="39" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="40" props="line-height:1.500000"><c></c></p>
+<p xid="41" props="text-align:center; line-height:1.500000"><c props="font-weight:bold; font-family:Times New Roman; font-size:14.000000pt">Elements of directing as function of management</c></p>
+<p style="heading 3" xid="42" props="line-height:1.500000"><c props="font-weight:normal">1. </c><c props="font-weight:normal; font-size:12.000000pt">Issuing Orders and Instructions to Subordinates: The first and foremost element of direction is to issue orders and instructions which are considered an essential step in the process of directing subordinates. </c><c props="font-size:12.000000pt; font-weight:normal; color:000000">An </c><a xlink:href="https://www.toppr.com/guides/maths/differential-equations/order-and-degree-of-a-differential-equation/" xid="43"><c props="font-size:12.000000pt; text-decoration:none; font-weight:normal; color:000000">order</c></a><c props="font-weight:normal; font-size:12.000000pt"> is a fundamental tool for getting things done. Therefore, the orders and instructions reflect managerial decisions and initiate action on the part of subordinates. Orders may be general or specific, formal or informal, written or oral.</c></p>
+<p style="Normal (Web)" xid="45" props="line-height:1.500000">2. Supervision in an overall manner: It refers to monitor the progress of routine work of one’s subordinates and guiding them properly. Supervision is an important element of the directing function of management. Supervision has an important feature which includes face-to-face interaction between the supervisor and his subordinates.</p>
+<p style="heading 3" xid="46" props="line-height:1.500000"><c props="font-weight:normal; font-size:12.000000pt">3. Motivating Subordinates: The term motivation can be referred to as that process which excites people to work for the attainment of the desired objective. Among the various factors of production, it is only the human factor which is dynamic and provides mobility to other physical resources.</c></p>
+<p style="Normal (Web)" xid="47" props="line-height:1.500000">Thus, in an overall sense, it becomes essential so as to motivate the human resources so as to keep the employees dynamic, aware and eager to perform their duty. Both the monetary and non-monetary incentives are given to the employees for motivation. Thus through motivation, the employees will perform better. Hence, it will help to achieve the organizational goals and objectives.</p>
+<p style="heading 3" xid="48" props="line-height:1.500000"><c props="font-weight:normal; font-size:12.000000pt">4. Providing Leadership: The term Leadership defines as to influence others in such a manner as to guide them to do what the leader wants them to do. Leadership plays an important role in directing. Only through this leadership skill, a manager can develop trust and zeal among his subordinates. Therefore it leads to guide and provide overall counselling to subordinates in the best way for achieving their objectives and also for the organization.</c></p>
+<p style="heading 3" xid="49" props="line-height:1.500000"><c props="font-weight:normal; font-size:12.000000pt">5. Communication: It refers to an act of transferring facts, ideas, feeling, etc. from one person to another and making him understand them. A manager has to continuously t guides and also at the same time, monitors his subordinates about what to do, how to do, and when to do various things.</c></p>
+<p style="Normal (Web)" xid="50" props="line-height:1.500000">Also, it is very essential to know their reactions. To do all this it becomes essential to develop effective telecommunication facilities. Therefore, the essential feature is to communicate with itself can be called by developing mutual understanding inculcates a sense of cooperation which builds an environment of coordination in the organization.</p>
+<p style="heading 3" xid="51" props="line-height:1.500000"><c props="font-weight:normal; font-size:12.000000pt">6. Maintaining discipline: By maintaining an atmosphere of discipline and trust in the organization, the manager can easily give directions. So that the work done by his employees is in most efficient and effective manner.</c></p>
+<p style="heading 3" xid="52" props="text-align:center; line-height:1.500000"><c></c></p>
+<p style="heading 3" xid="53" props="text-align:center; line-height:1.500000"><c props="font-size:12.000000pt">Styles of directing as function of management</c></p>
+<p level="0" listid="130" parentid="0" style="List Paragraph" xid="54" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"><field level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" xid="55" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"></field><c level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt">	</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; font-style:normal">The dictator</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">: In this style of directing, the director has a strongly assertive role and is very dominant in the process of creating a theatrical work. Rehearsals are more or less fully controlled and predictable, with the actors having little or no say. </c></p>
+<p level="0" listid="130" parentid="0" style="List Paragraph" xid="56" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"><field level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" xid="57" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"></field><c level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt">	</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; font-style:normal">The negotiator</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">: The </c><a xlink:href="http://en.wikipedia.org/wiki/Negotiator" xid="58"><c props="lang:en; font-size:12.000000pt; color:000000; font-family:Times New Roman; text-decoration:none">negotiator</c></a><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">‘ is a style of direction in which the director focuses on a more improvised and mediated form of rehearsal and creation, using the ideas of the production team and actors to shape a theatrical work in quite a democratic style. </c></p>
+<p level="0" listid="130" parentid="0" style="List Paragraph" xid="60" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"><field level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" xid="61" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"></field><c level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt">	</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; font-style:normal">The creative artist</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">: The director sees himself or herself as a creative artist working with the ‘materials’ of </c><a xlink:href="http://en.wikipedia.org/wiki/Drama" xid="62"><c props="lang:en; font-size:12.000000pt; color:000000; font-family:Times New Roman; text-decoration:none">dramatic</c></a><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; color:000000"> </c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">creativity, be they the </c><a xlink:href="http://en.wikipedia.org/wiki/Actor" xid="64"><c props="lang:en; font-size:12.000000pt; color:000000; font-family:Times New Roman; text-decoration:none">actors</c></a><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">, designers and production team. The “creative artist” wants input from the actors but, as artist, has final say over what is included and how ideas are incorporated. </c></p>
+<p level="0" listid="130" parentid="0" style="List Paragraph" xid="66" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"><field level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" xid="67" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt"></field><c level="0" listid="130" parentid="0" style="List Paragraph" type="list_label" props="text-indent:-18.000000pt; line-height:1.500000; margin-left:36.000000pt">	</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; font-style:normal">The confrontation list</c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">: In this style of directing, the director is in constant </c><a xlink:href="http://en.wikipedia.org/wiki/Dialogue" xid="68"><c props="lang:en; font-size:12.000000pt; color:000000; font-family:Times New Roman; text-decoration:none">dialogue</c></a><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; color:000000"> </c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">and </c><a xlink:href="http://en.wikipedia.org/wiki/Debate" xid="70"><c props="lang:en; font-size:12.000000pt; color:000000; font-family:Times New Roman; text-decoration:none">debate</c></a><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman; color:000000"> </c><c props="lang:en; font-size:12.000000pt; font-family:Times New Roman">with the cast and the production team about creative decisions and interpretations. The director seeks out and actively engages in such exchanges. Out of these exchanges, which can sometimes be heated or risky, comes a final contested product.</c></p>
+<p xid="72" props="bgcolor:FFFFFF; line-height:1.500000; margin-bottom:11.250000pt"><c></c></p>
+<p xid="73" props="bgcolor:FFFFFF; line-height:1.500000; margin-bottom:11.250000pt"><c props="font-size:22.000000pt; font-family:Times New Roman; color:444444">Direction has got following characteristics:</c></p>
+<p level="0" listid="110" parentid="0" xid="74" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="110" parentid="0" type="list_label" xid="75" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="110" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Pervasive Function - Directing is required at all levels of organization. Every manager provides guidance and inspiration to his subordinates.</c></p>
+<p level="0" listid="110" parentid="0" xid="76" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="110" parentid="0" type="list_label" xid="77" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="110" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Continuous Activity - Direction is a continuous activity as it continuous throughout the life of organization.</c></p>
+<p level="0" listid="110" parentid="0" xid="78" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="110" parentid="0" type="list_label" xid="79" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="110" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Human Factor - Directing function is related to subordinates and therefore it is related to human factor. Since human factor is complex and behavior is unpredictable, direction function becomes important.</c></p>
+<p level="0" listid="110" parentid="0" xid="80" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="110" parentid="0" type="list_label" xid="81" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="110" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Creative Activity - Direction function helps in converting plans into performance. Without this function, people become inactive and physical resources are meaningless.</c></p>
+<p level="0" listid="110" parentid="0" xid="82" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="110" parentid="0" type="list_label" xid="83" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="110" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Executive Function - Direction function is carried out by all managers and executives at all levels throughout the working of an enterprise, a subordinate receives instructions from his superior only.</c></p>
+<p level="0" listid="110" parentid="0" xid="84" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="110" parentid="0" type="list_label" xid="85" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="110" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Delegate Function - Direction is supposed to be a function dealing with human beings. Human behavior is unpredictable by nature and conditioning the people’s behavior towards the goals of the enterprise is what the executive does in this function. Therefore, it is termed as having delicacy in it to tackle human behavior.</c></p>
+<p xid="86" props="bgcolor:FFFFFF; margin-top:5.000000pt; line-height:1.500000; margin-bottom:5.000000pt"><c></c></p>
+<p xid="87" props="bgcolor:FFFFFF; margin-top:5.000000pt; line-height:1.500000; margin-bottom:5.000000pt"><c></c></p>
+<p style="heading 1" xid="88" props="bgcolor:FFFFFF; margin-top:0.000000pt; line-height:1.500000; margin-bottom:8.400000pt"><c></c></p>
+<p style="heading 1" xid="89" props="bgcolor:FFFFFF; margin-top:0.000000pt; line-height:1.500000; margin-bottom:8.400000pt"><c></c></p>
+<p xid="90"><c></c></p>
+<p style="heading 1" xid="91" props="bgcolor:FFFFFF; margin-top:0.000000pt; line-height:1.500000; margin-bottom:8.400000pt; text-align:center"><c props="font-size:20.000000pt; font-family:Times New Roman; color:000000">Importance of Directing Function</c></p>
+<p level="0" listid="120" parentid="0" xid="92" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="120" parentid="0" type="list_label" xid="93" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="120" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">It Initiates Actions - Directions is the function which is the starting point of the work performance of subordinates. It is from this function the action takes place, subordinates understand their jobs and do according to the instructions laid. Whatever are plans laid, can be implemented only once the actual work starts. It is there that direction becomes beneficial.</c></p>
+<p level="0" listid="120" parentid="0" xid="94" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="120" parentid="0" type="list_label" xid="95" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="120" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">It Ingrates Efforts - Through direction, the superiors are able to guide, inspire and instruct the subordinates to work. For this, efforts of every individual towards accomplishment of goals are required. It is through direction the efforts of every department can be related and integrated with others. This can be done through persuasive leadership and effective communication. Integration of efforts bring effectiveness and stability in a concern.</c></p>
+<p level="0" listid="120" parentid="0" xid="96" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="120" parentid="0" type="list_label" xid="97" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="120" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Means of Motivation - Direction function helps in achievement of goals. A manager makes use of the element of motivation here to improve the performances of subordinates. This can be done by providing incentives or compensation, whether monetary or non - monetary, which serves as a “Morale booster” to the subordinates Motivation is also helpful for the subordinates to give the best of their abilities which ultimately helps in growth.</c></p>
+<p level="0" listid="120" parentid="0" xid="98" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="120" parentid="0" type="list_label" xid="99" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="120" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">It Provides Stability - Stability and balance in concern becomes very important for long term sun survival in the market. This can be brought upon by the managers with the help of four tools or elements of direction function - judicious blend of persuasive leadership, effective communication, strict supervision and efficient motivation. Stability is very important since that is an index of growth of an enterprise. Therefore, a manager can use of all the four traits in him so that performance standards can be maintained.</c></p>
+<p level="0" listid="120" parentid="0" xid="100" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="120" parentid="0" type="list_label" xid="101" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="120" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Coping up with the changes - It is a human behavior that human beings show resistance to change. Adaptability with changing environment helps in sustaining planned growth and becoming a market leader. It is directing function which is of use to meet with changes in environment, both internal as external. Effective communication helps in coping up with the changes. It is the role of manager here to communicate the nature and contents of changes very clearly to the subordinates. This helps in clarifications, easy adaptions and smooth running of an enterprise. For example, if a concern shifts from handlooms to power looms, an important change in technique of production takes place. The resulting factors are less of manpower and more of machinery. This can be resisted by the subordinates. The manager here can explain that the change was in the benefit of the subordinates. Through more mechanization, production increases and thereby the profits. Indirectly, the subordinates are benefited out of that in form of higher remuneration.</c></p>
+<p level="0" listid="120" parentid="0" xid="102" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"><field level="0" listid="120" parentid="0" type="list_label" xid="103" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF"></field><c level="0" listid="120" parentid="0" type="list_label" props="margin-top:5.000000pt; margin-left:36.000000pt; text-indent:-18.000000pt; margin-bottom:5.000000pt; tabstops:0.500000in/0; line-height:1.500000; bgcolor:FFFFFF">	</c><c props="font-size:12.000000pt; font-family:Times New Roman; color:444444">Efficient Utilization of Resources - Direction finance helps in clarifying the role of every subordinate towards his work. The resources can be utilized properly only when less of wastages, duplication of efforts, overlapping of performances, etc. doesn’t take place. Through direction, the role of subordinates become clear as manager makes use of his supervisory, the guidance, the instructions and motivation skill to inspire the subordinates. This helps in maximum possible utilization of resources of men, machine, materials and money which helps in reducing costs and increasing profits.</c></p>
+<p xid="104" props="bgcolor:FFFFFF; margin-top:5.000000pt; line-height:1.500000; margin-bottom:5.000000pt"><c></c></p>
+<p xid="105" props="line-height:1.500000"><c></c></p>
+<p xid="106" props="line-height:1.500000"><c></c></p>
+<p xid="107" props="line-height:1.500000"><c></c></p>
+<p xid="108" props="line-height:1.500000"><c props="font-family:Times New Roman; font-size:12.000000pt"><br/></c></p>
+<p xid="109" props="line-height:1.500000"><c></c></p>
+<p xid="110" props="line-height:1.500000"><c></c></p>
+<p xid="111" props="line-height:1.500000"><c></c></p>
+<p xid="112" props="line-height:1.500000"><c></c></p>
+<p xid="113" props="line-height:1.500000"><c></c></p>
+<p xid="114" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="115" props="text-align:center; line-height:1.500000"><c></c></p>
+<p xid="116" props="text-align:center; line-height:1.500000"><c props="font-family:Times New Roman; font-size:12.000000pt">REFERENCES</c></p>
+<p xid="117" props="line-height:1.500000"><c props="font-size:12.000000pt; font-family:Times New Roman; font-style:italic">By “Prachi Juneja” and Reviewed By Management Study Guide Content Team. MSG Content Team comprises experienced Faculty Member, Professionals and Matter Experts</c><c props="font-family:Times New Roman; font-size:12.000000pt">.</c><c props="font-size:12.000000pt; font-family:Times New Roman; font-style:italic"> We are an ISO 2001:2015 Certified Education Provider. 10/10/2022</c></p>
+<p xid="118" props="line-height:1.500000"><a xlink:href="https://www.managementstudyguide.com/importance_of_directing.htm.11/10/2022" xid="119"><c props="text-decoration:none; color:000000; font-family:Times New Roman; font-size:12.000000pt">https://www.managementstudyguide.com/importance_of_directing.ht</c><c props="text-decoration:none; color:000000; font-family:Times New Roman; font-size:12.000000pt; font-style:italic">m.11/10/2022</c></a></p>
+<p xid="121">https://www.edubuzz.org/dgs_drama/styles-of-directing/20/10/2022</p>
+<p xid="122" props="line-height:1.500000"><c></c></p>
+<p xid="123" props="line-height:1.500000"></p>
+</section>
+<data>
+<d name="rId5" mime-type="image/jpeg" base64="yes">
+/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJ
+SkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkS
+DQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkR
+CQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk
+JCQk/8AAEQgBfQKmAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkK
+C//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHw
+JDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3
+eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY
+2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkK
+C//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1Lw
+FWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2
+d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW
+19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+qaKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+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
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUABooooAKRhmloosAm2
+jaKWigBNoo2ilooAMUUUUAJzS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABRRRQAUUGigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACigUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUd6ACiiigAooooA//2Q==
+</d>
+</data>
+</abiword>

@@ -1,0 +1,7 @@
+1. Profiling Data
+mukutex :
+latex: textedit
+	text studio
+	text work
+optimization in linaer programming
+MATLAB

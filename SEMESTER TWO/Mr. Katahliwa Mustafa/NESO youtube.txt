@@ -1,0 +1,52 @@
+Computer Organization deals with the structural relationship whereas; Computer Architecture deals with the functional behavior of Computer Systems.
+Computer Organization and Architecture is one of the most important topics in the entire Computer Science universe. It carries maximum weightage in many of the exams, especially in GATE.
+This course plan has been designed keeping all kinds of learners in mind. The detailed course is specially planned for all the college and university students, also the required numerical problems from various PYQs pertaining to respective topics are to be included to provide clearer insight to any of the exam aspirants.
+
+The list of topics to be covered in the order of top to bottom is as follows:
+1. Introduction
+2. Computer Architecture & Classifications of Computer Architecture
+3. Memory Interfacing and Hierarchy
+    a. Cache Memory
+        i. Direct mapping
+        ii. Associative mapping
+        iii. Set Associative mapping
+    b. Secondary Memory
+4. Computer Organization
+    a. Machine instructions
+    b. Addressing modes
+    c. ALU
+    d. Data-path
+    e. Control Unit
+        i. Hard-wired Control Unit
+        ii. Microprogrammed Control Unit
+5. I/O interfacing
+    a. Isolated and Memory Mapped I/O
+    b. Different types of transmission modes
+        i. Programmed
+        ii. Interrupt driven
+        iii. DMA
+6. Instruction Pipelining
+    a. Introduction
+    b. Hazards of Instruction Pipelining
+    c. Branch Prediction & Speculative Execution
+7. Number System
+    a. Different Bases
+    b. Complementary Number System
+    c. Subtraction using addition Principle
+        i. Diminished Radix Complement
+        ii. Radix Complement
+    d. Signed number representation
+        i. Ranges
+        ii. Sign bit extension
+        iii. Overflow
+    e. Binary Codes & their Classifications
+        i. Error detection
+        ii. Error Correction
+    f. Floating point Representation
+        i. IEEE Standards
+           i.i. Single precision
+            i.ii. Double Precision
+    g. Binary multiplication: Booth’s Multiplication
+    h. Binary Division
+        i. Restoring
+        ii. Non-restoring

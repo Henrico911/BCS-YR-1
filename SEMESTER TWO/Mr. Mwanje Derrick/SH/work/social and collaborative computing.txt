@@ -1,0 +1,28 @@
+One prominent example of social and collaborative computing is Wikipedia. Wikipedia is an online encyclopedia that relies on the collaborative efforts of individuals around the world to create and edit articles on a wide range of topics. Here's how Wikipedia embodies social and collaborative computing:
+
+User Collaboration:
+   - Wikipedia allows users from diverse backgrounds and expertise levels to collaboratively create and edit articles. Anyone with internet access can contribute to the platform.
+   - Users have the ability to edit existing articles, add new content, and provide references to support information.
+Open Editing Model:
+   - Wikipedia follows an open editing model, meaning that articles can be edited by anyone at any time. This fosters a collaborative environment where knowledge can be constantly updated and refined.
+
+Version History and Revisions:
+   - Every edit made to an article is recorded, and the platform maintains a version history. This allows users to track changes, revert to previous versions if needed, and review the evolution of the content.
+
+Community Moderation:
+   - Wikipedia has a community of volunteers who monitor and moderate the content. These volunteers, often referred to as "Wikipedians," contribute to the governance of the platform by addressing vandalism, ensuring neutrality, and resolving disputes among contributors.
+
+Talk Pages and Discussion:
+   - Each article has an associated "Talk" page where users can discuss proposed changes, ask questions, or address concerns. This feature enables communication and collaboration among contributors.
+
+Crowdsourced Knowledge:
+   - Wikipedia leverages the collective knowledge and expertise of its user community. Topics are covered by individuals with different perspectives and expertise, resulting in a comprehensive and diverse information source.
+
+Global Participation:
+   - Wikipedia has a global user base, allowing individuals from various countries and cultures to contribute. This diversity enriches the content and ensures a wide range of perspectives are considered.
+
+Real-time Updates:
+   - Information on Wikipedia can be updated in real-time, allowing for the rapid dissemination of current events and the latest knowledge. This real-time aspect enhances Wikipedia's relevance and usefulness.
+
+Quality Control Measures:
+   - Wikipedia employs policies and guidelines to maintain content quality. While it is an open platform, there are mechanisms in place to address inaccuracies, bias, or promotional content.

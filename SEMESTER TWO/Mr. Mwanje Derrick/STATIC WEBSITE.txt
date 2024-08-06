@@ -1,0 +1,13 @@
+STATIC WEBSITE
+	html structure
+	editors
+	formatting html docs/page-text
+	working with media files
+	tables in html
+	forms in html
+	hyperlinks
+	css
+	central test
+	iframes
+	APIs
+end of semester project
